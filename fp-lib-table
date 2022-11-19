@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "TXV_Library_Footprints")(type "KiCad")(uri "${KIPRJMOD}/TXV_Library_PCB/TXV_Library_Footprints.pretty")(options "")(descr ""))
+  (lib (name "STM32G747ME")(type "KiCad")(uri "${KIPRJMOD}/ul_STM32G474MET3/KiCAD/2022-11-19_20-38-52/footprints.pretty")(options "")(descr ""))
+)
