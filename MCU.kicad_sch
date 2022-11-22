@@ -1763,7 +1763,6 @@
     )
   )
 
-
   (junction (at 28.448 24.511) (diameter 0) (color 0 0 0 0)
     (uuid 00755f13-d3d9-4fcc-b3fc-6c810c11d27f)
   )
@@ -3357,6 +3356,11 @@
     (uuid ffa9b851-fc29-4507-9e4b-2c08c6df2b5c)
   )
 
+  (text "Sollen die 4 ~{CS} über\neinen MUX ausgewählt werden\noder eigenen Pin bekommen?"
+    (at 172.339 96.393 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 11b641c6-9bc3-4446-b7ba-adb91bcf498d)
+  )
   (text "ADC CLKIN\n" (at 359.664 141.224 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 404b355a-1aab-43a2-90ed-c608bc6d4dc2)
@@ -3369,6 +3373,11 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 60561654-0b4a-4ba0-947a-286604e59491)
   )
+  (text "VCAP 1 & 2 sind weg weil der G474 das nicht mehr braucht"
+    (at 147.32 33.655 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 6d2e8490-15e3-4782-90a8-05a3056780ed)
+  )
   (text "ADC ~{DRDY}" (at 359.664 143.764 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 759dc799-faeb-46fd-b094-f55090e96e60)
@@ -3377,8 +3386,19 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8049843a-09a8-4a89-ae1c-a7516bad53d5)
   )
-  (text "Wollen wir in real time debuggen?" (at 254.635 142.24 0)
-    (effects (font (size 1.27 1.27) bold) (justify left bottom))
+  (text "GPIO 9 & 10 sind mit nicht verbunden.\nWofür sind die? Können die weg?"
+    (at 333.121 104.902 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 878f6c1a-af21-4c4c-9865-1ea471bcfd30)
+  )
+  (text "??? Kann man das nicht auch\nsoftwareseitig implementieren?"
+    (at 105.156 70.866 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8ac482af-b968-4b44-a171-9184a7062740)
+  )
+  (text "Wollen wir in real time debuggen?\nWenn nein kann SWDIO & SWCLK weg?"
+    (at 253.492 144.272 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8c56c7b7-0b98-4b3e-aadf-5c27e754fdd4)
   )
   (text "DAC_OUT1" (at 261.493 124.587 180)
@@ -3392,6 +3412,11 @@
   (text "ADC DOUT" (at 359.664 153.924 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid dec3284a-480d-46d2-a3fc-73cd7a59e3d1)
+  )
+  (text "SPI4 ist auch mit gar\nnichts verbunden.\nKann es weg?"
+    (at 349.25 184.277 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid e713afcb-0ad9-4202-8fce-2fb74830a851)
   )
   (text "ADC ~{CS}" (at 359.664 156.464 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -5487,7 +5512,7 @@
     (property "Value" "Conn_02x04_Odd_Even" (id 1) (at 54.102 81.3816 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "" (id 2) (at 52.832 87.122 0)
+    (property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x04_P1.27mm_Vertical_SMD" (id 2) (at 52.832 87.122 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.832 87.122 0)
