@@ -427,7 +427,6 @@
     )
   )
 
-
   (junction (at 106.68 105.41) (diameter 0) (color 0 0 0 0)
     (uuid 001a9681-be32-44f3-a9c1-74cd83dbc517)
   )
@@ -698,6 +697,24 @@
   (hierarchical_label "PWR_GOOD" (shape output) (at 157.48 119.38 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid d2ffbd68-0a30-4161-8396-abaa671fb1f6)
+  )
+
+  (symbol (lib_id "power:PWR_FLAG") (at 121.92 96.52 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 033fc035-2864-4c0e-a3e5-545f80e2e0d4)
+    (property "Reference" "#FLG0101" (id 0) (at 121.92 94.615 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "PWR_FLAG" (id 1) (at 121.92 91.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "" (id 2) (at 121.92 96.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 121.92 96.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7c0c102e-429d-4a0a-ae33-6c3e2cd2f134))
   )
 
   (symbol (lib_id "power:PWR_FLAG") (at 193.04 96.52 0) (unit 1)
