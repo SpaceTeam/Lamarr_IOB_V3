@@ -1153,7 +1153,7 @@
     (uuid eb388e4f-eb01-4d47-9f81-d7010da0314e)
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_01x04") (at 241.3 89.281 0) (unit 1)
+  (symbol (lib_id "Connector_Generic:Conn_01x04") (at 241.3 89.281 0)
     (in_bom yes) (on_board yes)
     (uuid 01701faa-005e-4e63-b000-c7c240b1d95b)
     (property "Reference" "J3" (id 0) (at 243.332 89.4842 0)
@@ -1174,7 +1174,7 @@
     (pin "4" (uuid 5bb6d241-e2a7-44fe-bb47-6463ce113af2))
   )
 
-  (symbol (lib_id "Jumper:Jumper_2_Open") (at 241.3 124.206 270) (unit 1)
+  (symbol (lib_id "Jumper:Jumper_2_Open") (at 241.3 124.206 270)
     (in_bom yes) (on_board yes)
     (uuid 08331982-ea00-488f-9ac9-f59038b370b7)
     (property "Reference" "JP5" (id 0) (at 238.125 124.206 90)
@@ -1193,7 +1193,7 @@
     (pin "2" (uuid 32647320-3596-40d9-a8a9-81063f0bf9de))
   )
 
-  (symbol (lib_id "Jumper:Jumper_2_Open") (at 241.3 138.176 270) (unit 1)
+  (symbol (lib_id "Jumper:Jumper_2_Open") (at 241.3 138.176 270)
     (in_bom yes) (on_board yes)
     (uuid 266a088d-ef75-452e-a959-01f0b893a448)
     (property "Reference" "JP6" (id 0) (at 237.49 138.176 90)
@@ -1212,7 +1212,7 @@
     (pin "2" (uuid d8b1a539-b2c8-49ab-ad3b-53f6ee37f5df))
   )
 
-  (symbol (lib_id "power:+3.3V") (at 213.868 75.946 0) (unit 1)
+  (symbol (lib_id "power:+3.3V") (at 213.868 75.946 0)
     (in_bom yes) (on_board yes)
     (uuid 30f05a35-4bdd-4157-b5f9-45106f52d2de)
     (property "Reference" "#PWR017" (id 0) (at 213.868 79.756 0)
@@ -1228,7 +1228,7 @@
     (pin "1" (uuid 158a9ab8-77d8-4c9a-b44f-32e2d0827808))
   )
 
-  (symbol (lib_id "Device:Polyfuse") (at 223.393 81.153 0) (unit 1)
+  (symbol (lib_id "Device:Polyfuse") (at 223.393 81.153 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3807d798-2ca8-4c79-b576-11d2c4bb61fb)
     (property "Reference" "F2" (id 0) (at 225.806 79.8829 0)
@@ -1237,7 +1237,7 @@
     (property "Value" "Polyfuse" (id 1) (at 225.806 82.4229 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Fuse:Fuse_Littelfuse-LVR125" (id 2) (at 224.663 86.233 0)
+    (property "Footprint" "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse" (id 2) (at 224.663 86.233 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "~" (id 3) (at 223.393 81.153 0)
@@ -1247,7 +1247,7 @@
     (pin "2" (uuid b7f4ad1b-a680-4520-89ca-212ca9ca83fa))
   )
 
-  (symbol (lib_id "Device:R") (at 212.09 138.811 0) (unit 1)
+  (symbol (lib_id "Device:R") (at 212.09 138.811 0)
     (in_bom yes) (on_board yes)
     (uuid 41ac052b-db3b-470e-a48b-8868a93f5646)
     (property "Reference" "R7" (id 0) (at 205.74 137.541 0)
@@ -1266,7 +1266,7 @@
     (pin "2" (uuid 12552d55-61b3-48fb-a80f-51dc52192080))
   )
 
-  (symbol (lib_id "power:+3.3V") (at 241.3 117.856 0) (unit 1)
+  (symbol (lib_id "power:+3.3V") (at 241.3 117.856 0)
     (in_bom yes) (on_board yes)
     (uuid 4d1df7f3-83b3-40fb-a2d9-64dae7a747b9)
     (property "Reference" "#PWR020" (id 0) (at 241.3 121.666 0)
@@ -1282,7 +1282,7 @@
     (pin "1" (uuid 34e30786-6250-45d7-9f15-8626ff1b12e6))
   )
 
-  (symbol (lib_id "Device:Polyfuse") (at 213.868 81.28 0) (unit 1)
+  (symbol (lib_id "Device:Polyfuse") (at 213.868 81.28 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 52b8c382-e38e-4898-9fb4-9d3f624b54c7)
     (property "Reference" "F1" (id 0) (at 216.281 80.0099 0)
@@ -1291,7 +1291,7 @@
     (property "Value" "Polyfuse" (id 1) (at 216.281 82.5499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Fuse:Fuse_Littelfuse-LVR125" (id 2) (at 215.138 86.36 0)
+    (property "Footprint" "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse" (id 2) (at 215.138 86.36 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "~" (id 3) (at 213.868 81.28 0)
@@ -1301,7 +1301,7 @@
     (pin "2" (uuid c4a577aa-cfba-416b-97df-f04d0dc16af3))
   )
 
-  (symbol (lib_id "power:GNDA") (at 223.52 145.796 0) (unit 1)
+  (symbol (lib_id "power:GNDA") (at 223.52 145.796 0)
     (in_bom yes) (on_board yes)
     (uuid 5ea3a12a-43e9-48f4-a673-861fb4a3f735)
     (property "Reference" "#PWR019" (id 0) (at 223.52 152.146 0)
@@ -1317,7 +1317,7 @@
     (pin "1" (uuid cb760866-c003-44e1-90ae-75a892616f9b))
   )
 
-  (symbol (lib_id "Jumper:Jumper_2_Open") (at 189.865 72.771 0) (unit 1)
+  (symbol (lib_id "Jumper:Jumper_2_Open") (at 189.865 72.771 0)
     (in_bom yes) (on_board yes)
     (uuid 6e5b9b26-db0d-4a77-8094-4bf066d10ecc)
     (property "Reference" "JP1" (id 0) (at 188.595 69.596 0)
@@ -1336,7 +1336,7 @@
     (pin "2" (uuid 10929503-cb1d-42a8-9682-d161dba0b501))
   )
 
-  (symbol (lib_id "power:+24V") (at 223.393 75.946 0) (unit 1)
+  (symbol (lib_id "power:+24V") (at 223.393 75.946 0)
     (in_bom yes) (on_board yes)
     (uuid 6e644fc5-15eb-43f4-979a-7a67fc763028)
     (property "Reference" "#PWR018" (id 0) (at 223.393 79.756 0)
@@ -1352,7 +1352,7 @@
     (pin "1" (uuid f3a2cc3e-8cda-4c95-b4a9-9d28e063fcb0))
   )
 
-  (symbol (lib_id "Jumper:Jumper_2_Open") (at 212.09 108.331 270) (unit 1)
+  (symbol (lib_id "Jumper:Jumper_2_Open") (at 212.09 108.331 270)
     (in_bom yes) (on_board yes)
     (uuid 727b1d96-b299-455d-bb54-46d963dae6e1)
     (property "Reference" "JP2" (id 0) (at 210.185 108.331 90)
@@ -1371,7 +1371,7 @@
     (pin "2" (uuid 3a5416bd-3338-49c8-8847-b7f58033364f))
   )
 
-  (symbol (lib_id "Device:R") (at 178.435 97.536 0) (unit 1)
+  (symbol (lib_id "Device:R") (at 178.435 97.536 0)
     (in_bom yes) (on_board yes)
     (uuid 7f156281-2482-46dd-8a27-3fb14f9b30ad)
     (property "Reference" "R1" (id 0) (at 173.355 95.631 0)
@@ -1390,7 +1390,7 @@
     (pin "2" (uuid b27c7b2b-019e-4174-9081-d6df7ae8da92))
   )
 
-  (symbol (lib_id "Device:R") (at 201.295 99.441 0) (unit 1)
+  (symbol (lib_id "Device:R") (at 201.295 99.441 0)
     (in_bom yes) (on_board yes)
     (uuid 9152e971-abf9-42be-8f68-10258286c0cb)
     (property "Reference" "R3" (id 0) (at 196.215 97.536 0)
@@ -1409,7 +1409,7 @@
     (pin "2" (uuid fa53c8b9-e764-436c-95c5-f1988190267c))
   )
 
-  (symbol (lib_id "Device:R") (at 178.435 107.696 0) (unit 1)
+  (symbol (lib_id "Device:R") (at 178.435 107.696 0)
     (in_bom yes) (on_board yes)
     (uuid ae10ddd7-21b4-409b-bab6-1a541c7cb3e6)
     (property "Reference" "R2" (id 0) (at 173.355 105.791 0)
@@ -1428,7 +1428,7 @@
     (pin "2" (uuid fea6a7b4-3280-4083-b511-075d19dbe669))
   )
 
-  (symbol (lib_id "Device:R") (at 212.09 128.016 0) (unit 1)
+  (symbol (lib_id "Device:R") (at 212.09 128.016 0)
     (in_bom yes) (on_board yes)
     (uuid aef4cfad-47fa-44cb-a104-91e11001d6e4)
     (property "Reference" "R6" (id 0) (at 205.74 126.746 0)
@@ -1447,7 +1447,7 @@
     (pin "2" (uuid 6e6b52e2-5c25-4677-8f9e-0bbcd54509ae))
   )
 
-  (symbol (lib_id "Device:D") (at 231.14 133.096 270) (unit 1)
+  (symbol (lib_id "Device:D") (at 231.14 133.096 270)
     (in_bom yes) (on_board yes)
     (uuid b4bae447-aa9f-47f4-aaf1-aa5d385eeb04)
     (property "Reference" "D2" (id 0) (at 233.1466 131.9276 90)
@@ -1466,7 +1466,7 @@
     (pin "2" (uuid 38696799-ee79-42a5-b275-ba3cdf12623d))
   )
 
-  (symbol (lib_id "power:GNDA") (at 178.435 112.776 0) (unit 1)
+  (symbol (lib_id "power:GNDA") (at 178.435 112.776 0)
     (in_bom yes) (on_board yes)
     (uuid b9f5ba28-d904-482f-aad4-5bc25bb3ff21)
     (property "Reference" "#PWR013" (id 0) (at 178.435 119.126 0)
@@ -1482,7 +1482,7 @@
     (pin "1" (uuid c449c5dd-904d-4066-8ca5-896fe45cce4a))
   )
 
-  (symbol (lib_id "IOB-rescue:INA180-TXV_Library_Symbols") (at 187.325 91.821 0) (mirror y) (unit 1)
+  (symbol (lib_id "IOB-rescue:INA180-TXV_Library_Symbols") (at 187.325 91.821 0) (mirror y)
     (in_bom yes) (on_board yes)
     (uuid bd256348-fa29-46cf-bf47-da1e5f3c4f72)
     (property "Reference" "U2" (id 0) (at 184.15 87.376 0))
@@ -1500,7 +1500,7 @@
     (pin "6" (uuid b5ec409d-2836-44e3-a48f-a68f081882cd))
   )
 
-  (symbol (lib_id "IOB-rescue:BSZ0902NSATMA1-TXV_Library_Symbols") (at 222.25 133.731 0) (unit 1)
+  (symbol (lib_id "IOB-rescue:BSZ0902NSATMA1-TXV_Library_Symbols") (at 222.25 133.731 0)
     (in_bom yes) (on_board yes)
     (uuid c179ccde-2182-4f60-b03c-94290c9d0fc2)
     (property "Reference" "Q1" (id 0) (at 226.187 133.731 0)
@@ -1520,7 +1520,7 @@
     (pin "3" (uuid cd650091-ffd7-42e6-9ce4-862b97bc0138))
   )
 
-  (symbol (lib_id "Device:R") (at 212.09 93.726 0) (unit 1)
+  (symbol (lib_id "Device:R") (at 212.09 93.726 0)
     (in_bom yes) (on_board yes)
     (uuid d1878e1d-1a34-432e-b4ba-873c2a461ca3)
     (property "Reference" "R5" (id 0) (at 207.01 92.456 0)
@@ -1539,7 +1539,7 @@
     (pin "2" (uuid aee9d883-3ae7-4c50-8f15-795335d994b9))
   )
 
-  (symbol (lib_id "power:+3.3V") (at 212.09 122.301 0) (unit 1)
+  (symbol (lib_id "power:+3.3V") (at 212.09 122.301 0)
     (in_bom yes) (on_board yes)
     (uuid d1e6b7cc-8b83-416f-9a75-710bb6a34f5c)
     (property "Reference" "#PWR016" (id 0) (at 212.09 126.111 0)
@@ -1555,7 +1555,7 @@
     (pin "1" (uuid 067536f0-a65b-49d4-a01f-c90c2a820f77))
   )
 
-  (symbol (lib_id "power:GNDA") (at 189.865 105.791 0) (unit 1)
+  (symbol (lib_id "power:GNDA") (at 189.865 105.791 0)
     (in_bom yes) (on_board yes)
     (uuid d2cc92a0-be3f-457f-89fd-4489dbfc7933)
     (property "Reference" "#PWR015" (id 0) (at 189.865 112.141 0)
@@ -1571,7 +1571,7 @@
     (pin "1" (uuid 3768496c-e2e1-44ce-9c9b-cbedcf8e99ac))
   )
 
-  (symbol (lib_id "Device:R") (at 203.835 133.731 90) (unit 1)
+  (symbol (lib_id "Device:R") (at 203.835 133.731 90)
     (in_bom yes) (on_board yes)
     (uuid ed3296ed-4e67-405f-abf8-f9ca80e12d73)
     (property "Reference" "R4" (id 0) (at 203.2 131.826 90)
@@ -1590,7 +1590,7 @@
     (pin "2" (uuid 37635766-4752-418c-96de-72b546af247b))
   )
 
-  (symbol (lib_id "power:+3.3V") (at 189.865 82.931 0) (unit 1)
+  (symbol (lib_id "power:+3.3V") (at 189.865 82.931 0)
     (in_bom yes) (on_board yes)
     (uuid f1a662a9-9ddf-45b0-869d-d7673f623d65)
     (property "Reference" "#PWR014" (id 0) (at 189.865 86.741 0)

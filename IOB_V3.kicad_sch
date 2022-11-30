@@ -3702,79 +3702,79 @@
       (reference "D17") (unit 1) (value "LED") (footprint "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/7426b94e-ffc2-452e-843f-c6ffae4705a2/52b8c382-e38e-4898-9fb4-9d3f624b54c7"
-      (reference "F1") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F1") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/7426b94e-ffc2-452e-843f-c6ffae4705a2/3807d798-2ca8-4c79-b576-11d2c4bb61fb"
-      (reference "F2") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F2") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/95b5f669-3e5e-48d4-8512-b857a5d5915c/52b8c382-e38e-4898-9fb4-9d3f624b54c7"
-      (reference "F3") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F3") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/95b5f669-3e5e-48d4-8512-b857a5d5915c/3807d798-2ca8-4c79-b576-11d2c4bb61fb"
-      (reference "F4") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F4") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/a958e3f8-bd63-42b2-ac9a-4ffad0a91676/52b8c382-e38e-4898-9fb4-9d3f624b54c7"
-      (reference "F5") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F5") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/a958e3f8-bd63-42b2-ac9a-4ffad0a91676/3807d798-2ca8-4c79-b576-11d2c4bb61fb"
-      (reference "F6") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F6") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/7ea1ea46-2b35-49b1-a809-dcbd86e73c96/52b8c382-e38e-4898-9fb4-9d3f624b54c7"
-      (reference "F7") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F7") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/7ea1ea46-2b35-49b1-a809-dcbd86e73c96/3807d798-2ca8-4c79-b576-11d2c4bb61fb"
-      (reference "F8") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F8") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/c637b127-297c-4e8f-be4e-b918078086bf/52b8c382-e38e-4898-9fb4-9d3f624b54c7"
-      (reference "F9") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F9") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/c637b127-297c-4e8f-be4e-b918078086bf/3807d798-2ca8-4c79-b576-11d2c4bb61fb"
-      (reference "F10") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F10") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/82164960-bf22-4200-8575-df11cb483928/52b8c382-e38e-4898-9fb4-9d3f624b54c7"
-      (reference "F11") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F11") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/82164960-bf22-4200-8575-df11cb483928/3807d798-2ca8-4c79-b576-11d2c4bb61fb"
-      (reference "F12") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F12") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/8b85e5f6-8968-4f47-ad1c-3423d27b22c2/52b8c382-e38e-4898-9fb4-9d3f624b54c7"
-      (reference "F13") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F13") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/8b85e5f6-8968-4f47-ad1c-3423d27b22c2/3807d798-2ca8-4c79-b576-11d2c4bb61fb"
-      (reference "F14") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F14") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/1cfeda7b-3d15-40f9-ac91-2926e2fcb9b6/52b8c382-e38e-4898-9fb4-9d3f624b54c7"
-      (reference "F15") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F15") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/1cfeda7b-3d15-40f9-ac91-2926e2fcb9b6/3807d798-2ca8-4c79-b576-11d2c4bb61fb"
-      (reference "F16") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F16") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/ca909406-9a8c-443a-8a4f-137543955aa7/52b8c382-e38e-4898-9fb4-9d3f624b54c7"
-      (reference "F17") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F17") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/ca909406-9a8c-443a-8a4f-137543955aa7/3807d798-2ca8-4c79-b576-11d2c4bb61fb"
-      (reference "F18") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F18") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/e315361b-ca51-47cd-85fc-82009ac7ddee/52b8c382-e38e-4898-9fb4-9d3f624b54c7"
-      (reference "F19") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F19") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/e315361b-ca51-47cd-85fc-82009ac7ddee/3807d798-2ca8-4c79-b576-11d2c4bb61fb"
-      (reference "F20") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F20") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/2c710a03-064f-48b6-8156-1ab0fa7c8290/52b8c382-e38e-4898-9fb4-9d3f624b54c7"
-      (reference "F21") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F21") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/2c710a03-064f-48b6-8156-1ab0fa7c8290/3807d798-2ca8-4c79-b576-11d2c4bb61fb"
-      (reference "F22") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F22") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/7baf78c5-b11e-457b-812f-beadef1c4ebe/52b8c382-e38e-4898-9fb4-9d3f624b54c7"
-      (reference "F23") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F23") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/7baf78c5-b11e-457b-812f-beadef1c4ebe/3807d798-2ca8-4c79-b576-11d2c4bb61fb"
-      (reference "F24") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F24") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/33332500-4da3-42ef-9bb3-bc804f9ab4ce/47e10172-b09d-46fd-83cd-f6a30b6004de"
-      (reference "F25") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Littelfuse-LVR125")
+      (reference "F25") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
     )
     (path "/3bbae5d4-6082-49cc-a334-20e15dfcb8e0"
       (reference "J1") (unit 1) (value "Conn_01x02") (footprint "TXV_Library_Footprints:Molex_MicroFit_2Pin_Vertical")
