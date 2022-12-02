@@ -2711,7 +2711,7 @@
     (property "Value" "Conn_01x08" (id 1) (at 131.699 132.969 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_IDC:IDC-Header_2x04_P2.54mm_Horizontal" (id 2) (at 135.255 130.048 0)
+    (property "Footprint" "" (id 2) (at 135.255 130.048 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 135.255 130.048 0)
@@ -3536,7 +3536,7 @@
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/65e96c09-c060-4787-a214-0453b6b68ff7"
       (reference "#PWR0134") (unit 1) (value "GNDD") (footprint "")
     )
-    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/88cdcfe4-f642-4f46-a92c-2fc337766e9b"
+    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/1e98888a-427d-4a31-a7dd-97b8504ac365"
       (reference "#PWR0135") (unit 1) (value "GNDD") (footprint "")
     )
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/5d852694-e417-4f44-9e25-f69851870fd8"
@@ -3690,16 +3690,16 @@
       (reference "D13") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123F")
     )
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/5ea038cb-816d-4c36-bb7b-109706ba09b8"
-      (reference "D14") (unit 1) (value "LED") (footprint "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm")
+      (reference "D14") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/3aab0d4c-b03f-4a2b-bb8a-5ed68b4e7455"
-      (reference "D15") (unit 1) (value "LED") (footprint "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm")
+      (reference "D15") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/e259e01a-e686-48b7-b946-0f838b7ef786"
-      (reference "D16") (unit 1) (value "LED") (footprint "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm")
+      (reference "D16") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/08207f2a-291d-44df-8ce7-49d0dd8abd06"
-      (reference "D17") (unit 1) (value "LED") (footprint "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm")
+      (reference "D17") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/7426b94e-ffc2-452e-843f-c6ffae4705a2/52b8c382-e38e-4898-9fb4-9d3f624b54c7"
       (reference "F1") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
@@ -3828,7 +3828,7 @@
       (reference "J17") (unit 1) (value "Conn_01x04_MountingPin") (footprint "Connector_JST:JST_GH_BM04B-GHS-TBT_1x04-1MP_P1.25mm_Vertical")
     )
     (path "/e7a61089-3c45-4246-9e2f-067953569569"
-      (reference "J18") (unit 1) (value "Conn_01x08") (footprint "Connector_IDC:IDC-Header_2x04_P2.54mm_Horizontal")
+      (reference "J18") (unit 1) (value "Conn_01x08") (footprint "Connector_IDC:IDC-Header_2x04_P2.54mm_Vertical")
     )
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/af1dd001-2f93-4b0a-9bcf-1f08059fc4a7"
       (reference "J19") (unit 1) (value "Conn_01x04_MountingPin") (footprint "Connector_JST:JST_GH_BM04B-GHS-TBT_1x04-1MP_P1.25mm_Vertical")
@@ -4307,7 +4307,7 @@
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/d5af292a-eac6-4880-86c9-55e5721398dc"
       (reference "SW2") (unit 1) (value "SW_Push_Dual") (footprint "TXV_Library_Footprints:SW_SPST_CK_RS282G05A3_and_THT")
     )
-    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/a325f198-534a-4f13-b7fd-b75bb8d3ea8f"
+    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/179c61ef-4bb1-49e7-a31d-9f9c899ae1c2"
       (reference "SW3") (unit 1) (value "SW_DIP_x08") (footprint "TXV_Library_Footprints:8_Pin_DIP_Switch")
     )
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/a5379312-944f-48ed-b308-52b44a00d5dd"
