@@ -2608,7 +2608,7 @@
     (property "Value" "SpaceTeam_LOGO" (id 1) (at 68.326 89.3826 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "" (id 2) (at 68.326 94.615 0)
+    (property "Footprint" "TXV_Library_Footprints:ST_Logo_new" (id 2) (at 68.326 94.615 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 68.326 94.615 0)
@@ -3132,7 +3132,7 @@
       (reference "#FLG0101") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/ac4c4951-e08c-483f-aab9-5cd115cbd241"
-      (reference "#G1") (unit 1) (value "SpaceTeam_LOGO") (footprint "")
+      (reference "#G1") (unit 1) (value "SpaceTeam_LOGO") (footprint "TXV_Library_Footprints:ST_Logo_new")
     )
     (path "/00c5ccef-eb29-45b1-8f65-055873a11b7e"
       (reference "#PWR01") (unit 1) (value "GND") (footprint "")

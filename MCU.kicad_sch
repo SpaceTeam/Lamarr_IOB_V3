@@ -2053,6 +2053,7 @@
     )
   )
 
+
   (junction (at 28.448 24.511) (diameter 0) (color 0 0 0 0)
     (uuid 00755f13-d3d9-4fcc-b3fc-6c810c11d27f)
   )
@@ -2193,7 +2194,7 @@
   )
 
   (no_connect (at 46.355 199.39) (uuid 3e5d2130-3b3c-4111-84f2-fa6cd02ffe38))
-  (no_connect (at 71.755 199.39) (uuid 3e5d2130-3b3c-4111-84f2-fa6cd02ffe38))
+  (no_connect (at 71.755 199.39) (uuid 3e5d2130-3b3c-4111-84f2-fa6cd02ffe39))
   (no_connect (at 47.625 123.825) (uuid 59c8a9f6-74df-4a71-9c97-f7815053cb0a))
   (no_connect (at 239.141 85.598) (uuid 72b507fb-74cc-4054-ab82-bad847d260e7))
   (no_connect (at 239.141 88.138) (uuid 72b507fb-74cc-4054-ab82-bad847d260e8))
@@ -5407,8 +5408,8 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ab44cab5-203b-4fac-b4ee-b824a1ef8e82)
     (property "Reference" "J17" (id 0) (at 59.055 186.69 0))
-    (property "Value" "" (id 1) (at 59.055 189.23 0))
-    (property "Footprint" "" (id 2) (at 59.055 196.85 0)
+    (property "Value" "TFC-103-01-F-D" (id 1) (at 59.055 189.23 0))
+    (property "Footprint" "SAMTEC_TFC-103-01-F-D" (id 2) (at 59.055 196.85 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 59.055 196.85 0)
