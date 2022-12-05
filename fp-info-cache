@@ -1,4 +1,4 @@
-20281269007370106
+20282939093303190
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -80457,6 +80457,13 @@ SAMTEC_MMCX-J-P-H-ST-SM1
 0
 5
 5
+TXV_Library_Footprints
+SAMTEC_TFC-103-01-F-D
+
+
+0
+6
+6
 TXV_Library_Footprints
 SOD882D
 

@@ -2,4 +2,5 @@
   (lib (name "TXV_Library_Symbols")(type "KiCad")(uri "${KIPRJMOD}/TXV_Library_PCB/TXV_Library_Symbols.kicad_sym")(options "")(descr ""))
   (lib (name "2022-11-19_20-38-52")(type "Legacy")(uri "${KIPRJMOD}/ul_STM32G474MET3/KiCAD/2022-11-19_20-38-52/2022-11-19_20-38-52.lib")(options "")(descr ""))
   (lib (name "IOB-rescue")(type "Legacy")(uri "${KIPRJMOD}/IOB-rescue.lib")(options "")(descr ""))
+  (lib (name "TFC-103-01-F-D")(type "KiCad")(uri "${KIPRJMOD}/TXV_Library_PCB/TFC-103-01-F-D.kicad_sym")(options "")(descr ""))
 )
