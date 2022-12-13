@@ -2053,7 +2053,6 @@
     )
   )
 
-
   (junction (at 28.448 24.511) (diameter 0) (color 0 0 0 0)
     (uuid 00755f13-d3d9-4fcc-b3fc-6c810c11d27f)
   )
@@ -4491,7 +4490,7 @@
     (uuid 2208bac6-d2f1-4625-9045-1586d304572f)
     (property "Reference" "J19" (id 0) (at 59.055 207.01 0))
     (property "Value" "TFC-103-01-F-D" (id 1) (at 59.055 209.55 0))
-    (property "Footprint" "" (id 2) (at 59.055 217.17 0)
+    (property "Footprint" "TXV_Library_Footprints:SAMTEC_TFC-103-01-F-D" (id 2) (at 59.055 217.17 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 59.055 217.17 0)
@@ -5494,7 +5493,7 @@
     (uuid ab44cab5-203b-4fac-b4ee-b824a1ef8e82)
     (property "Reference" "J17" (id 0) (at 59.055 186.69 0))
     (property "Value" "TFC-103-01-F-D" (id 1) (at 59.055 189.23 0))
-    (property "Footprint" "" (id 2) (at 59.055 196.85 0)
+    (property "Footprint" "TXV_Library_Footprints:SAMTEC_TFC-103-01-F-D" (id 2) (at 59.055 196.85 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 59.055 196.85 0)

@@ -2577,7 +2577,7 @@
   (symbol (lib_id "power:+3.3V") (at 87.63 165.862 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 0a9d8e41-616b-478b-a794-2d1c96fc98c8)
-    (property "Reference" "#PWR?" (id 0) (at 87.63 169.672 0)
+    (property "Reference" "#PWR0149" (id 0) (at 87.63 169.672 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (id 1) (at 91.44 164.592 0))
@@ -2698,8 +2698,8 @@
     (in_bom yes) (on_board yes)
     (uuid 604bcb2c-233a-454c-b15a-267e51d722f3)
     (property "Reference" "J20" (id 0) (at 115.57 176.276 0))
-    (property "Value" "" (id 1) (at 112.268 179.578 0))
-    (property "Footprint" "" (id 2) (at 120.142 178.054 0)
+    (property "Value" "Conn_01x10" (id 1) (at 112.268 179.578 0))
+    (property "Footprint" "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical" (id 2) (at 120.142 178.054 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 120.142 178.054 0)
@@ -2792,8 +2792,8 @@
     (in_bom yes) (on_board yes)
     (uuid 917d59ac-4b1c-4db3-b29f-08aba9b74fab)
     (property "Reference" "J18" (id 0) (at 72.644 176.784 0))
-    (property "Value" "" (id 1) (at 67.056 180.594 0))
-    (property "Footprint" "" (id 2) (at 76.454 177.292 0)
+    (property "Value" "Conn_01x10" (id 1) (at 67.056 180.594 0))
+    (property "Footprint" "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical" (id 2) (at 76.454 177.292 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 76.454 177.292 0)
@@ -2859,6 +2859,23 @@
     (pin "1" (uuid 3ebaa5e6-2de4-4b0e-bd9e-c6692094bb30))
   )
 
+  (symbol (lib_id "TXV_Library_Symbols:SpaceTeam_LOGO") (at 62.484 85.471 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 9c27bafe-dc9a-4fc8-9304-3713da742e75)
+    (property "Reference" "G1" (id 0) (at 62.484 90.7034 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Value" "SpaceTeam_LOGO" (id 1) (at 62.484 80.2386 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Footprint" "TXV_Library_Footprints:ST_Logo_new" (id 2) (at 62.484 85.471 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 62.484 85.471 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
   (symbol (lib_id "power:GNDA") (at 236.982 86.995 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9c888233-5a8c-4816-8ca0-6fef4c1fa008)
@@ -2878,7 +2895,7 @@
   (symbol (lib_id "power:+3.3V") (at 131.318 166.624 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9dbe0d25-4225-40ae-a49f-c30c39c46cfe)
-    (property "Reference" "#PWR?" (id 0) (at 131.318 170.434 0)
+    (property "Reference" "#PWR0148" (id 0) (at 131.318 170.434 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (id 1) (at 135.128 165.354 0))
@@ -2905,23 +2922,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b141e73a-596b-4869-8eb1-08c579e5b1d4))
-  )
-
-  (symbol (lib_id "TXV_Library_Symbols:SpaceTeam_LOGO") (at 68.326 94.615 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid ac4c4951-e08c-483f-aab9-5cd115cbd241)
-    (property "Reference" "#G1" (id 0) (at 68.326 99.8474 0)
-      (effects (font (size 1.524 1.524)) hide)
-    )
-    (property "Value" "SpaceTeam_LOGO" (id 1) (at 68.326 89.3826 0)
-      (effects (font (size 1.524 1.524)) hide)
-    )
-    (property "Footprint" "" (id 2) (at 68.326 94.615 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (id 3) (at 68.326 94.615 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
   )
 
   (symbol (lib_id "Device:C") (at 81.661 147.828 0) (unit 1)
@@ -3430,9 +3430,6 @@
     (path "/33332500-4da3-42ef-9bb3-bc804f9ab4ce/033fc035-2864-4c0e-a3e5-545f80e2e0d4"
       (reference "#FLG0101") (unit 1) (value "PWR_FLAG") (footprint "")
     )
-    (path "/ac4c4951-e08c-483f-aab9-5cd115cbd241"
-      (reference "#G1") (unit 1) (value "SpaceTeam_LOGO") (footprint "TXV_Library_Footprints:ST_Logo_new")
-    )
     (path "/00c5ccef-eb29-45b1-8f65-055873a11b7e"
       (reference "#PWR01") (unit 1) (value "GND") (footprint "")
     )
@@ -3874,6 +3871,12 @@
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/3854d5db-810c-4c48-b101-12bf1cc8b387"
       (reference "#PWR0147") (unit 1) (value "GNDA") (footprint "")
     )
+    (path "/9dbe0d25-4225-40ae-a49f-c30c39c46cfe"
+      (reference "#PWR0148") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/0a9d8e41-616b-478b-a794-2d1c96fc98c8"
+      (reference "#PWR0149") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/49ac7742-282c-4f80-a888-ce3f270663b8"
       (reference "#PWR0155") (unit 1) (value "GNDD") (footprint "")
     )
@@ -3894,12 +3897,6 @@
     )
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/1cf85d52-a917-4884-83c1-a322f449d7f9"
       (reference "#PWR0161") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/0a9d8e41-616b-478b-a794-2d1c96fc98c8"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/9dbe0d25-4225-40ae-a49f-c30c39c46cfe"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/b53ac17e-5879-4554-b7b4-15c13cd6c313"
       (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -4083,6 +4080,9 @@
     )
     (path "/33332500-4da3-42ef-9bb3-bc804f9ab4ce/47e10172-b09d-46fd-83cd-f6a30b6004de"
       (reference "F25") (unit 1) (value "Polyfuse") (footprint "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse")
+    )
+    (path "/9c27bafe-dc9a-4fc8-9304-3713da742e75"
+      (reference "G1") (unit 1) (value "SpaceTeam_LOGO") (footprint "TXV_Library_Footprints:ST_Logo_new")
     )
     (path "/3bbae5d4-6082-49cc-a334-20e15dfcb8e0"
       (reference "J1") (unit 1) (value "Conn_01x02") (footprint "TXV_Library_Footprints:Molex_MicroFit_2Pin_Vertical")
