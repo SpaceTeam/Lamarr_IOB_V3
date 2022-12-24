@@ -3847,8 +3847,8 @@
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/8eb43c8c-0075-4f4f-9aa4-067d574b0e90"
       (reference "#PWR0139") (unit 1) (value "GNDD") (footprint "")
     )
-    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/b6659546-cd20-4177-96e0-bac10a28c326"
-      (reference "#PWR0140") (unit 1) (value "+5V") (footprint "")
+    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/5b8656c7-6ddb-4463-b8fd-64cb6fe0495b"
+      (reference "#PWR0140") (unit 1) (value "GNDD") (footprint "")
     )
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/d1457e9e-cd6f-4eac-a387-b31614edcffe"
       (reference "#PWR0141") (unit 1) (value "+3.3V") (footprint "")
@@ -3859,8 +3859,8 @@
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/221a7428-fe18-4c36-8179-294aaa90dd67"
       (reference "#PWR0143") (unit 1) (value "GNDA") (footprint "")
     )
-    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/2a690fd6-2e13-4f52-bc32-d94631f9979b"
-      (reference "#PWR0144") (unit 1) (value "GNDD") (footprint "")
+    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/7663886b-6d14-4266-9193-1da4bfb04ab2"
+      (reference "#PWR0144") (unit 1) (value "+5V") (footprint "")
     )
     (path "/8623dfc6-b353-4ff7-a4e7-7fe683728554"
       (reference "#PWR0145") (unit 1) (value "GND") (footprint "")
@@ -4132,14 +4132,14 @@
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/d7f520c6-6157-44e2-94e0-0e3114a50063"
       (reference "J16") (unit 1) (value "Conn_02x04_Odd_Even") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x04_P1.27mm_Vertical_SMD")
     )
-    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/ab44cab5-203b-4fac-b4ee-b824a1ef8e82"
-      (reference "J17") (unit 1) (value "TFC-103-01-F-D") (footprint "TXV_Library_Footprints:SAMTEC_TFC-103-01-F-D")
+    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/cb6a921b-32a0-49c5-8e66-6a849a0ce0a8"
+      (reference "J17") (unit 1) (value "Conn_01x04") (footprint "T1M-04-F-SV-L:SAMTEC_T1M-04-F-SV-L")
     )
     (path "/917d59ac-4b1c-4db3-b29f-08aba9b74fab"
       (reference "J18") (unit 1) (value "Conn_01x10") (footprint "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical")
     )
-    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/2208bac6-d2f1-4625-9045-1586d304572f"
-      (reference "J19") (unit 1) (value "TFC-103-01-F-D") (footprint "TXV_Library_Footprints:SAMTEC_TFC-103-01-F-D")
+    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/3a781b29-4185-4fa3-a062-1e54d0852bd6"
+      (reference "J19") (unit 1) (value "Conn_01x04") (footprint "T1M-04-F-SV-L:SAMTEC_T1M-04-F-SV-L")
     )
     (path "/604bcb2c-233a-454c-b15a-267e51d722f3"
       (reference "J20") (unit 1) (value "Conn_01x10") (footprint "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical")
