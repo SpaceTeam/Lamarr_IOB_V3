@@ -4161,6 +4161,12 @@
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/7426b94e-ffc2-452e-843f-c6ffae4705a2/727b1d96-b299-455d-bb54-46d963dae6e1"
       (reference "JP2") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
     )
+    (path "/e7136250-cee6-4520-acb7-2950e0829e43/7426b94e-ffc2-452e-843f-c6ffae4705a2/21a1c133-f7c0-4c55-bfae-87489f29c903"
+      (reference "JP3") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
+    (path "/e7136250-cee6-4520-acb7-2950e0829e43/95b5f669-3e5e-48d4-8512-b857a5d5915c/21a1c133-f7c0-4c55-bfae-87489f29c903"
+      (reference "JP4") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/7426b94e-ffc2-452e-843f-c6ffae4705a2/08331982-ea00-488f-9ac9-f59038b370b7"
       (reference "JP5") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
     )
@@ -4172,6 +4178,12 @@
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/95b5f669-3e5e-48d4-8512-b857a5d5915c/727b1d96-b299-455d-bb54-46d963dae6e1"
       (reference "JP8") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
+    (path "/e7136250-cee6-4520-acb7-2950e0829e43/a958e3f8-bd63-42b2-ac9a-4ffad0a91676/21a1c133-f7c0-4c55-bfae-87489f29c903"
+      (reference "JP9") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
+    (path "/e7136250-cee6-4520-acb7-2950e0829e43/7ea1ea46-2b35-49b1-a809-dcbd86e73c96/21a1c133-f7c0-4c55-bfae-87489f29c903"
+      (reference "JP10") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/95b5f669-3e5e-48d4-8512-b857a5d5915c/08331982-ea00-488f-9ac9-f59038b370b7"
       (reference "JP11") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
@@ -4185,6 +4197,12 @@
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/a958e3f8-bd63-42b2-ac9a-4ffad0a91676/727b1d96-b299-455d-bb54-46d963dae6e1"
       (reference "JP14") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
     )
+    (path "/e7136250-cee6-4520-acb7-2950e0829e43/c637b127-297c-4e8f-be4e-b918078086bf/21a1c133-f7c0-4c55-bfae-87489f29c903"
+      (reference "JP15") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
+    (path "/e7136250-cee6-4520-acb7-2950e0829e43/82164960-bf22-4200-8575-df11cb483928/21a1c133-f7c0-4c55-bfae-87489f29c903"
+      (reference "JP16") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/a958e3f8-bd63-42b2-ac9a-4ffad0a91676/08331982-ea00-488f-9ac9-f59038b370b7"
       (reference "JP17") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
     )
@@ -4196,6 +4214,12 @@
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/7ea1ea46-2b35-49b1-a809-dcbd86e73c96/727b1d96-b299-455d-bb54-46d963dae6e1"
       (reference "JP20") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
+    (path "/e7136250-cee6-4520-acb7-2950e0829e43/8b85e5f6-8968-4f47-ad1c-3423d27b22c2/21a1c133-f7c0-4c55-bfae-87489f29c903"
+      (reference "JP21") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
+    (path "/e7136250-cee6-4520-acb7-2950e0829e43/1cfeda7b-3d15-40f9-ac91-2926e2fcb9b6/21a1c133-f7c0-4c55-bfae-87489f29c903"
+      (reference "JP22") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/7ea1ea46-2b35-49b1-a809-dcbd86e73c96/08331982-ea00-488f-9ac9-f59038b370b7"
       (reference "JP23") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
@@ -4209,6 +4233,12 @@
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/c637b127-297c-4e8f-be4e-b918078086bf/727b1d96-b299-455d-bb54-46d963dae6e1"
       (reference "JP26") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
     )
+    (path "/e7136250-cee6-4520-acb7-2950e0829e43/ca909406-9a8c-443a-8a4f-137543955aa7/21a1c133-f7c0-4c55-bfae-87489f29c903"
+      (reference "JP27") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
+    (path "/e7136250-cee6-4520-acb7-2950e0829e43/e315361b-ca51-47cd-85fc-82009ac7ddee/21a1c133-f7c0-4c55-bfae-87489f29c903"
+      (reference "JP28") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/c637b127-297c-4e8f-be4e-b918078086bf/08331982-ea00-488f-9ac9-f59038b370b7"
       (reference "JP29") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
     )
@@ -4220,6 +4250,12 @@
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/82164960-bf22-4200-8575-df11cb483928/727b1d96-b299-455d-bb54-46d963dae6e1"
       (reference "JP32") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
+    (path "/e7136250-cee6-4520-acb7-2950e0829e43/2c710a03-064f-48b6-8156-1ab0fa7c8290/21a1c133-f7c0-4c55-bfae-87489f29c903"
+      (reference "JP33") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
+    (path "/e7136250-cee6-4520-acb7-2950e0829e43/7baf78c5-b11e-457b-812f-beadef1c4ebe/21a1c133-f7c0-4c55-bfae-87489f29c903"
+      (reference "JP34") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/82164960-bf22-4200-8575-df11cb483928/08331982-ea00-488f-9ac9-f59038b370b7"
       (reference "JP35") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
