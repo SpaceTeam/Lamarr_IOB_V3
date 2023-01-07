@@ -1,1646 +1,589 @@
-392536779620346
-Connector_IDC
-IDC-Header_2x03_P2.54mm_Horizontal
-Through hole IDC box header, 2x03, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC box header THT 2x03 2.54mm double row
-0
-6
-6
-Connector_IDC
-IDC-Header_2x03_P2.54mm_Vertical
-Through hole IDC box header, 2x03, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC box header THT 2x03 2.54mm double row
-0
-6
-6
-Connector_IDC
-IDC-Header_2x04_P2.54mm_Horizontal
-Through hole IDC box header, 2x04, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC box header THT 2x04 2.54mm double row
-0
-8
-8
-Connector_IDC
-IDC-Header_2x04_P2.54mm_Vertical
-Through hole IDC box header, 2x04, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC box header THT 2x04 2.54mm double row
-0
-8
-8
-Connector_IDC
-IDC-Header_2x05-1MP_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x05 2.54mm double row
-0
-12
-11
-Connector_IDC
-IDC-Header_2x05-1MP_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x05 2.54mm double row
-0
-12
-11
-Connector_IDC
-IDC-Header_2x05-1MP_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x05 2.54mm double row
-0
-12
-11
-Connector_IDC
-IDC-Header_2x05-1MP_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x05 2.54mm double row
-0
-12
-11
-Connector_IDC
-IDC-Header_2x05-1MP_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x05 2.54mm double row
-0
-12
-11
-Connector_IDC
-IDC-Header_2x05_P2.54mm_Horizontal
-Through hole IDC box header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC box header THT 2x05 2.54mm double row
-0
-10
-10
-Connector_IDC
-IDC-Header_2x05_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x05 2.54mm double row
-0
-10
-10
-Connector_IDC
-IDC-Header_2x05_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x05 2.54mm double row
-0
-10
-10
-Connector_IDC
-IDC-Header_2x05_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x05 2.54mm double row
-0
-10
-10
-Connector_IDC
-IDC-Header_2x05_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x05 2.54mm double row
-0
-10
-10
-Connector_IDC
-IDC-Header_2x05_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x05 2.54mm double row
-0
-10
-10
-Connector_IDC
-IDC-Header_2x05_P2.54mm_Vertical
-Through hole IDC box header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC box header THT 2x05 2.54mm double row
-0
-10
-10
-Connector_IDC
-IDC-Header_2x06-1MP_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x06, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x06 2.54mm double row
-0
-14
-13
-Connector_IDC
-IDC-Header_2x06-1MP_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x06, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x06 2.54mm double row
-0
-14
-13
-Connector_IDC
-IDC-Header_2x06-1MP_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x06, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x06 2.54mm double row
-0
-14
-13
-Connector_IDC
-IDC-Header_2x06-1MP_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x06, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x06 2.54mm double row
-0
-14
-13
-Connector_IDC
-IDC-Header_2x06-1MP_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x06, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x06 2.54mm double row
-0
-14
-13
-Connector_IDC
-IDC-Header_2x06_P2.54mm_Horizontal
-Through hole IDC box header, 2x06, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC box header THT 2x06 2.54mm double row
-0
-12
-12
-Connector_IDC
-IDC-Header_2x06_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x06, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x06 2.54mm double row
-0
-12
-12
-Connector_IDC
-IDC-Header_2x06_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x06, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x06 2.54mm double row
-0
-12
-12
-Connector_IDC
-IDC-Header_2x06_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x06, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x06 2.54mm double row
-0
-12
-12
-Connector_IDC
-IDC-Header_2x06_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x06, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x06 2.54mm double row
-0
-12
-12
-Connector_IDC
-IDC-Header_2x06_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x06, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x06 2.54mm double row
-0
-12
-12
-Connector_IDC
-IDC-Header_2x06_P2.54mm_Vertical
-Through hole IDC box header, 2x06, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC box header THT 2x06 2.54mm double row
-0
-12
-12
-Connector_IDC
-IDC-Header_2x07-1MP_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x07, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x07 2.54mm double row
-0
-16
-15
-Connector_IDC
-IDC-Header_2x07-1MP_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x07, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x07 2.54mm double row
-0
-16
-15
-Connector_IDC
-IDC-Header_2x07-1MP_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x07, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x07 2.54mm double row
-0
-16
-15
-Connector_IDC
-IDC-Header_2x07-1MP_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x07, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x07 2.54mm double row
-0
-16
-15
-Connector_IDC
-IDC-Header_2x07-1MP_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x07, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x07 2.54mm double row
-0
-16
-15
-Connector_IDC
-IDC-Header_2x07_P2.54mm_Horizontal
-Through hole IDC box header, 2x07, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC box header THT 2x07 2.54mm double row
-0
-14
-14
-Connector_IDC
-IDC-Header_2x07_P2.54mm_Horizontal_Lock
-Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
-connector idc locked
-0
-16
-14
-Connector_IDC
-IDC-Header_2x07_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x07, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x07 2.54mm double row
-0
-14
-14
-Connector_IDC
-IDC-Header_2x07_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x07, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x07 2.54mm double row
-0
-14
-14
-Connector_IDC
-IDC-Header_2x07_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x07, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x07 2.54mm double row
-0
-14
-14
-Connector_IDC
-IDC-Header_2x07_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x07, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x07 2.54mm double row
-0
-14
-14
-Connector_IDC
-IDC-Header_2x07_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x07, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x07 2.54mm double row
-0
-14
-14
-Connector_IDC
-IDC-Header_2x07_P2.54mm_Vertical
-Through hole IDC box header, 2x07, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC box header THT 2x07 2.54mm double row
-0
-14
-14
-Connector_IDC
-IDC-Header_2x08-1MP_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x08 2.54mm double row
-0
-18
-17
-Connector_IDC
-IDC-Header_2x08-1MP_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x08 2.54mm double row
-0
-18
-17
-Connector_IDC
-IDC-Header_2x08-1MP_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x08 2.54mm double row
-0
-18
-17
-Connector_IDC
-IDC-Header_2x08-1MP_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x08 2.54mm double row
-0
-18
-17
-Connector_IDC
-IDC-Header_2x08-1MP_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x08 2.54mm double row
-0
-18
-17
-Connector_IDC
-IDC-Header_2x08_P2.54mm_Horizontal
-Through hole IDC box header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC box header THT 2x08 2.54mm double row
-0
-16
-16
-Connector_IDC
-IDC-Header_2x08_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x08 2.54mm double row
-0
-16
-16
-Connector_IDC
-IDC-Header_2x08_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x08 2.54mm double row
-0
-16
-16
-Connector_IDC
-IDC-Header_2x08_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x08 2.54mm double row
-0
-16
-16
-Connector_IDC
-IDC-Header_2x08_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x08 2.54mm double row
-0
-16
-16
-Connector_IDC
-IDC-Header_2x08_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x08 2.54mm double row
-0
-16
-16
-Connector_IDC
-IDC-Header_2x08_P2.54mm_Vertical
-Through hole IDC box header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC box header THT 2x08 2.54mm double row
-0
-16
-16
-Connector_IDC
-IDC-Header_2x10-1MP_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x10 2.54mm double row
-0
-22
-21
-Connector_IDC
-IDC-Header_2x10-1MP_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x10 2.54mm double row
-0
-22
-21
-Connector_IDC
-IDC-Header_2x10-1MP_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x10 2.54mm double row
-0
-22
-21
-Connector_IDC
-IDC-Header_2x10-1MP_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x10 2.54mm double row
-0
-22
-21
-Connector_IDC
-IDC-Header_2x10-1MP_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x10 2.54mm double row
-0
-22
-21
-Connector_IDC
-IDC-Header_2x10_P2.54mm_Horizontal
-Through hole IDC box header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC box header THT 2x10 2.54mm double row
-0
-20
-20
-Connector_IDC
-IDC-Header_2x10_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x10 2.54mm double row
-0
-20
-20
-Connector_IDC
-IDC-Header_2x10_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x10 2.54mm double row
-0
-20
-20
-Connector_IDC
-IDC-Header_2x10_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x10 2.54mm double row
-0
-20
-20
-Connector_IDC
-IDC-Header_2x10_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x10 2.54mm double row
-0
-20
-20
-Connector_IDC
-IDC-Header_2x10_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x10 2.54mm double row
-0
-20
-20
-Connector_IDC
-IDC-Header_2x10_P2.54mm_Vertical
-Through hole IDC box header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC box header THT 2x10 2.54mm double row
-0
-20
-20
-Connector_IDC
-IDC-Header_2x12-1MP_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x12, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x12 2.54mm double row
-0
-26
-25
-Connector_IDC
-IDC-Header_2x12-1MP_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x12, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x12 2.54mm double row
-0
-26
-25
-Connector_IDC
-IDC-Header_2x12-1MP_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x12, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x12 2.54mm double row
-0
-26
-25
-Connector_IDC
-IDC-Header_2x12-1MP_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x12, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x12 2.54mm double row
-0
-26
-25
-Connector_IDC
-IDC-Header_2x12-1MP_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x12, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x12 2.54mm double row
-0
-26
-25
-Connector_IDC
-IDC-Header_2x12_P2.54mm_Horizontal
-Through hole IDC box header, 2x12, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC box header THT 2x12 2.54mm double row
-0
-24
-24
-Connector_IDC
-IDC-Header_2x12_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x12, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x12 2.54mm double row
-0
-24
-24
-Connector_IDC
-IDC-Header_2x12_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x12, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x12 2.54mm double row
-0
-24
-24
-Connector_IDC
-IDC-Header_2x12_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x12, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x12 2.54mm double row
-0
-24
-24
-Connector_IDC
-IDC-Header_2x12_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x12, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x12 2.54mm double row
-0
-24
-24
-Connector_IDC
-IDC-Header_2x12_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x12, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x12 2.54mm double row
-0
-24
-24
-Connector_IDC
-IDC-Header_2x12_P2.54mm_Vertical
-Through hole IDC box header, 2x12, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC box header THT 2x12 2.54mm double row
-0
-24
-24
-Connector_IDC
-IDC-Header_2x13-1MP_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x13, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x13 2.54mm double row
-0
-28
-27
-Connector_IDC
-IDC-Header_2x13-1MP_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x13, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x13 2.54mm double row
-0
-28
-27
-Connector_IDC
-IDC-Header_2x13-1MP_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x13, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x13 2.54mm double row
-0
-28
-27
-Connector_IDC
-IDC-Header_2x13-1MP_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x13, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x13 2.54mm double row
-0
-28
-27
-Connector_IDC
-IDC-Header_2x13-1MP_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x13, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x13 2.54mm double row
-0
-28
-27
-Connector_IDC
-IDC-Header_2x13_P2.54mm_Horizontal
-Through hole IDC box header, 2x13, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC box header THT 2x13 2.54mm double row
-0
-26
-26
-Connector_IDC
-IDC-Header_2x13_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x13, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x13 2.54mm double row
-0
-26
-26
-Connector_IDC
-IDC-Header_2x13_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x13, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x13 2.54mm double row
-0
-26
-26
-Connector_IDC
-IDC-Header_2x13_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x13, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x13 2.54mm double row
-0
-26
-26
-Connector_IDC
-IDC-Header_2x13_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x13, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x13 2.54mm double row
-0
-26
-26
-Connector_IDC
-IDC-Header_2x13_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x13, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x13 2.54mm double row
-0
-26
-26
-Connector_IDC
-IDC-Header_2x13_P2.54mm_Vertical
-Through hole IDC box header, 2x13, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC box header THT 2x13 2.54mm double row
-0
-26
-26
-Connector_IDC
-IDC-Header_2x15-1MP_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x15, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x15 2.54mm double row
+140396994370148
+Package_QFP
+EQFP-144-1EP_20x20mm_P0.5mm_EP4x4mm
+EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00482-02.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+EQFP QFP
+0
+154
+145
+Package_QFP
+EQFP-144-1EP_20x20mm_P0.5mm_EP4x4mm_ThermalVias
+EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00482-02.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+EQFP QFP
+0
+171
+145
+Package_QFP
+EQFP-144-1EP_20x20mm_P0.5mm_EP5x5mm
+EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00476-02.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+EQFP QFP
+0
+161
+145
+Package_QFP
+EQFP-144-1EP_20x20mm_P0.5mm_EP5x5mm_ThermalVias
+EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00476-02.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+EQFP QFP
+0
+187
+145
+Package_QFP
+EQFP-144-1EP_20x20mm_P0.5mm_EP6.61x5.615mm
+EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00485-02.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+EQFP QFP
+0
+165
+145
+Package_QFP
+EQFP-144-1EP_20x20mm_P0.5mm_EP6.61x5.615mm_ThermalVias
+EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00485-02.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+EQFP QFP
+0
+196
+145
+Package_QFP
+EQFP-144-1EP_20x20mm_P0.5mm_EP7.2x6.35mm
+EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00487-01.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+EQFP QFP
+0
+175
+145
+Package_QFP
+EQFP-144-1EP_20x20mm_P0.5mm_EP7.2x6.35mm_ThermalVias
+EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00487-01.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+EQFP QFP
+0
+218
+145
+Package_QFP
+EQFP-144-1EP_20x20mm_P0.5mm_EP8.93x8.7mm
+EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00479-02.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+EQFP QFP
+0
+194
+145
+Package_QFP
+EQFP-144-1EP_20x20mm_P0.5mm_EP8.93x8.7mm_ThermalVias
+EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00479-02.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+EQFP QFP
+0
+259
+145
+Package_QFP
+HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm
+64-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1 mm Body, 2.00 mm Footprint [HTQFP] thermal pad
+HTQFP-64 Pitch 0.5 
+0
+69
+65
+Package_QFP
+HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm_Mask4.4x4.4mm_ThermalVias
+64-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1 mm Body, 2.00 mm Footprint [HTQFP] thermal pad
+HTQFP-64 Pitch 0.5 
+0
+135
+65
+Package_QFP
+LQFP-32_5x5mm_P0.5mm
+LQFP, 32 Pin (https://www.nxp.com/docs/en/package-information/SOT401-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
 0
 32
-31
-Connector_IDC
-IDC-Header_2x15-1MP_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x15, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x15 2.54mm double row
+32
+Package_QFP
+LQFP-32_7x7mm_P0.8mm
+LQFP, 32 Pin (https://www.nxp.com/docs/en/package-information/SOT358-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
 0
 32
-31
-Connector_IDC
-IDC-Header_2x15-1MP_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x15, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x15 2.54mm double row
-0
 32
-31
-Connector_IDC
-IDC-Header_2x15-1MP_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x15, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x15 2.54mm double row
-0
-32
-31
-Connector_IDC
-IDC-Header_2x15-1MP_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x15, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x15 2.54mm double row
-0
-32
-31
-Connector_IDC
-IDC-Header_2x15_P2.54mm_Horizontal
-Through hole IDC box header, 2x15, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC box header THT 2x15 2.54mm double row
-0
-30
-30
-Connector_IDC
-IDC-Header_2x15_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x15, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x15 2.54mm double row
-0
-30
-30
-Connector_IDC
-IDC-Header_2x15_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x15, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x15 2.54mm double row
-0
-30
-30
-Connector_IDC
-IDC-Header_2x15_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x15, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x15 2.54mm double row
-0
-30
-30
-Connector_IDC
-IDC-Header_2x15_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x15, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x15 2.54mm double row
-0
-30
-30
-Connector_IDC
-IDC-Header_2x15_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x15, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x15 2.54mm double row
-0
-30
-30
-Connector_IDC
-IDC-Header_2x15_P2.54mm_Vertical
-Through hole IDC box header, 2x15, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC box header THT 2x15 2.54mm double row
-0
-30
-30
-Connector_IDC
-IDC-Header_2x17-1MP_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x17, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x17 2.54mm double row
+Package_QFP
+LQFP-36_7x7mm_P0.65mm
+LQFP, 36 Pin (https://www.onsemi.com/pub/Collateral/561AV.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
 0
 36
-35
-Connector_IDC
-IDC-Header_2x17-1MP_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x17, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x17 2.54mm double row
-0
 36
-35
-Connector_IDC
-IDC-Header_2x17-1MP_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x17, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x17 2.54mm double row
-0
-36
-35
-Connector_IDC
-IDC-Header_2x17-1MP_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x17, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x17 2.54mm double row
-0
-36
-35
-Connector_IDC
-IDC-Header_2x17-1MP_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x17, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x17 2.54mm double row
-0
-36
-35
-Connector_IDC
-IDC-Header_2x17_P2.54mm_Horizontal
-Through hole IDC box header, 2x17, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC box header THT 2x17 2.54mm double row
-0
-34
-34
-Connector_IDC
-IDC-Header_2x17_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x17, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x17 2.54mm double row
-0
-34
-34
-Connector_IDC
-IDC-Header_2x17_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x17, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x17 2.54mm double row
-0
-34
-34
-Connector_IDC
-IDC-Header_2x17_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x17, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x17 2.54mm double row
-0
-34
-34
-Connector_IDC
-IDC-Header_2x17_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x17, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x17 2.54mm double row
-0
-34
-34
-Connector_IDC
-IDC-Header_2x17_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x17, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x17 2.54mm double row
-0
-34
-34
-Connector_IDC
-IDC-Header_2x17_P2.54mm_Vertical
-Through hole IDC box header, 2x17, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC box header THT 2x17 2.54mm double row
-0
-34
-34
-Connector_IDC
-IDC-Header_2x20-1MP_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x20, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x20 2.54mm double row
-0
-42
-41
-Connector_IDC
-IDC-Header_2x20-1MP_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x20, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x20 2.54mm double row
-0
-42
-41
-Connector_IDC
-IDC-Header_2x20-1MP_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x20, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x20 2.54mm double row
-0
-42
-41
-Connector_IDC
-IDC-Header_2x20-1MP_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x20, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x20 2.54mm double row
-0
-42
-41
-Connector_IDC
-IDC-Header_2x20-1MP_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x20, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x20 2.54mm double row
-0
-42
-41
-Connector_IDC
-IDC-Header_2x20_P2.54mm_Horizontal
-Through hole IDC box header, 2x20, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC box header THT 2x20 2.54mm double row
-0
-40
-40
-Connector_IDC
-IDC-Header_2x20_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x20, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x20 2.54mm double row
-0
-40
-40
-Connector_IDC
-IDC-Header_2x20_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x20, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x20 2.54mm double row
-0
-40
-40
-Connector_IDC
-IDC-Header_2x20_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x20, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x20 2.54mm double row
-0
-40
-40
-Connector_IDC
-IDC-Header_2x20_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x20, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x20 2.54mm double row
-0
-40
-40
-Connector_IDC
-IDC-Header_2x20_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x20, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x20 2.54mm double row
-0
-40
-40
-Connector_IDC
-IDC-Header_2x20_P2.54mm_Vertical
-Through hole IDC box header, 2x20, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC box header THT 2x20 2.54mm double row
-0
-40
-40
-Connector_IDC
-IDC-Header_2x25-1MP_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x25, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x25 2.54mm double row
-0
-52
-51
-Connector_IDC
-IDC-Header_2x25-1MP_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x25, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x25 2.54mm double row
-0
-52
-51
-Connector_IDC
-IDC-Header_2x25-1MP_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x25, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x25 2.54mm double row
-0
-52
-51
-Connector_IDC
-IDC-Header_2x25-1MP_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x25, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x25 2.54mm double row
-0
-52
-51
-Connector_IDC
-IDC-Header_2x25-1MP_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x25, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x25 2.54mm double row
-0
-52
-51
-Connector_IDC
-IDC-Header_2x25_P2.54mm_Horizontal
-Through hole IDC box header, 2x25, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC box header THT 2x25 2.54mm double row
-0
-50
-50
-Connector_IDC
-IDC-Header_2x25_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x25, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x25 2.54mm double row
-0
-50
-50
-Connector_IDC
-IDC-Header_2x25_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x25, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x25 2.54mm double row
-0
-50
-50
-Connector_IDC
-IDC-Header_2x25_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x25, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x25 2.54mm double row
-0
-50
-50
-Connector_IDC
-IDC-Header_2x25_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x25, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x25 2.54mm double row
-0
-50
-50
-Connector_IDC
-IDC-Header_2x25_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x25, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x25 2.54mm double row
-0
-50
-50
-Connector_IDC
-IDC-Header_2x25_P2.54mm_Vertical
-Through hole IDC box header, 2x25, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC box header THT 2x25 2.54mm double row
-0
-50
-50
-Connector_IDC
-IDC-Header_2x30-1MP_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x30, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x30 2.54mm double row
-0
-62
-61
-Connector_IDC
-IDC-Header_2x30-1MP_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x30, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x30 2.54mm double row
-0
-62
-61
-Connector_IDC
-IDC-Header_2x30-1MP_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x30, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x30 2.54mm double row
-0
-62
-61
-Connector_IDC
-IDC-Header_2x30-1MP_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x30, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x30 2.54mm double row
-0
-62
-61
-Connector_IDC
-IDC-Header_2x30-1MP_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x30, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x30 2.54mm double row
-0
-62
-61
-Connector_IDC
-IDC-Header_2x30_P2.54mm_Horizontal
-Through hole IDC box header, 2x30, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC box header THT 2x30 2.54mm double row
-0
-60
-60
-Connector_IDC
-IDC-Header_2x30_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x30, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x30 2.54mm double row
-0
-60
-60
-Connector_IDC
-IDC-Header_2x30_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x30, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x30 2.54mm double row
-0
-60
-60
-Connector_IDC
-IDC-Header_2x30_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x30, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x30 2.54mm double row
-0
-60
-60
-Connector_IDC
-IDC-Header_2x30_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x30, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x30 2.54mm double row
-0
-60
-60
-Connector_IDC
-IDC-Header_2x30_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x30, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x30 2.54mm double row
-0
-60
-60
-Connector_IDC
-IDC-Header_2x30_P2.54mm_Vertical
-Through hole IDC box header, 2x30, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC box header THT 2x30 2.54mm double row
-0
-60
-60
-Connector_IDC
-IDC-Header_2x32-1MP_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x32, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x32 2.54mm double row
-0
-66
-65
-Connector_IDC
-IDC-Header_2x32-1MP_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x32, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x32 2.54mm double row
-0
-66
-65
-Connector_IDC
-IDC-Header_2x32-1MP_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x32, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x32 2.54mm double row
-0
-66
-65
-Connector_IDC
-IDC-Header_2x32-1MP_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x32, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x32 2.54mm double row
-0
-66
-65
-Connector_IDC
-IDC-Header_2x32-1MP_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x32, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x32 2.54mm double row
-0
-66
-65
-Connector_IDC
-IDC-Header_2x32_P2.54mm_Horizontal
-Through hole IDC box header, 2x32, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC box header THT 2x32 2.54mm double row
-0
-64
-64
-Connector_IDC
-IDC-Header_2x32_P2.54mm_Latch6.5mm_Vertical
-Through hole IDC header, 2x32, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 6.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x32 2.54mm double row
-0
-64
-64
-Connector_IDC
-IDC-Header_2x32_P2.54mm_Latch9.5mm_Vertical
-Through hole IDC header, 2x32, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x32 2.54mm double row
-0
-64
-64
-Connector_IDC
-IDC-Header_2x32_P2.54mm_Latch12.0mm_Vertical
-Through hole IDC header, 2x32, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 12.0mm latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x32 2.54mm double row
-0
-64
-64
-Connector_IDC
-IDC-Header_2x32_P2.54mm_Latch_Horizontal
-Through hole IDC header, 2x32, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole horizontal IDC header THT 2x32 2.54mm double row
-0
-64
-64
-Connector_IDC
-IDC-Header_2x32_P2.54mm_Latch_Vertical
-Through hole IDC header, 2x32, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows latches, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC header THT 2x32 2.54mm double row
-0
-64
-64
-Connector_IDC
-IDC-Header_2x32_P2.54mm_Vertical
-Through hole IDC box header, 2x32, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC box header THT 2x32 2.54mm double row
-0
-64
-64
-KiCad
-SOT65P280X110-8N
-DDF0008A
-Integrated Circuit
-0
-8
-8
-STM32
-STM32G474MET3
-
-
-0
-80
-80
-T1M-04-F-SV-L
-SAMTEC_T1M-04-F-SV-L
-1MM TERMINAL STRIP, 5PINS.
-
-0
-6
-6
-TXV_Library_Footprints
-8_Pin_DIP_Switch
-
-
-0
-16
-16
-TXV_Library_Footprints
-18650
-
-
-0
-2
-2
-TXV_Library_Footprints
-20021512-00010T4LF
-
-
-0
-10
-10
-TXV_Library_Footprints
-20021512-00014T4LF
-
-
-0
-14
-14
-TXV_Library_Footprints
-ACIN_7x1,6mm_Silk
-
-
-0
-0
-0
-TXV_Library_Footprints
-BGA-153_14x14_11.5x13.0mm
-
-
-0
-153
-153
-TXV_Library_Footprints
-Bullet_3mm
-
-
-0
-1
-1
-TXV_Library_Footprints
-D2F_A
-
-
-0
-5
-3
-TXV_Library_Footprints
-D2F_A1
-
-
-0
-5
-3
-TXV_Library_Footprints
-DF20F-10DP-1V
-
-
-0
-12
-11
-TXV_Library_Footprints
-DFN5_5x6_1.27P
-
-
-0
-8
-3
-TXV_Library_Footprints
-DHD_16
-
-
-0
-25
-17
-TXV_Library_Footprints
-DPAK
-
-
-0
-3
-3
-TXV_Library_Footprints
-ECU_Footprint
-
-
-0
-85
-50
-TXV_Library_Footprints
-ECU_Footprint_simple
-
-
-0
-63
-28
-TXV_Library_Footprints
-Edge_Connector
-
-
-0
-1
-1
-TXV_Library_Footprints
-G-NiceRF-LoRa1268F30
-ConnectorMicromatch-16
-
-0
-16
-16
-TXV_Library_Footprints
-G-NiceRF-LoRa1278F30
-ConnectorMicromatch-16
-
-0
-16
-16
-TXV_Library_Footprints
-Jumper-3_Bridged_1-2
-SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
-solder jumper open
-0
-3
-3
-TXV_Library_Footprints
-Jumper3_6x2mm
-
-
-0
-3
-3
-TXV_Library_Footprints
-Jumper3_6x2mm_Vias
-
-
+Package_QFP
+LQFP-44_10x10mm_P0.8mm
+LQFP, 44 Pin (https://www.nxp.com/files-static/shared/doc/package_info/98ASS23225W.pdf?&fsrch=1), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+44
+44
+Package_QFP
+LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm
+LQFP, 48 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+58
+49
+Package_QFP
+LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm_ThermalVias
+LQFP, 48 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
 0
 75
-3
-TXV_Library_Footprints
-Jumper3_6x2mm_Vias23
-
-
+49
+Package_QFP
+LQFP-48_7x7mm_P0.5mm
+LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
 0
-51
-3
-TXV_Library_Footprints
-LM3150_Footprint
-
-
+48
+48
+Package_QFP
+LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm
+LQFP, 52 Pin (https://www.onsemi.com/pub/Collateral/848H-01.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
 0
-15
-15
-TXV_Library_Footprints
-L_Coilcraft_XAL1010
-
-
+62
+53
+Package_QFP
+LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm_ThermalVias
+LQFP, 52 Pin (https://www.onsemi.com/pub/Collateral/848H-01.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
 0
-2
-2
-TXV_Library_Footprints
-LiIon_Charger_Footprint
-
-
+95
+53
+Package_QFP
+LQFP-52_10x10mm_P0.65mm
+LQFP, 52 Pin (https://www.nxp.com/docs/en/package-information/98ARL10526D.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
 0
-10
-10
-TXV_Library_Footprints
-MMCX_Horizontal_THT
-
-
+52
+52
+Package_QFP
+LQFP-52_14x14mm_P1mm
+LQFP, 52 Pin (http://www.holtek.com/documents/10179/116711/HT1632Cv170.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
 0
-5
-5
-TXV_Library_Footprints
-MicroSwitch
-
-
-0
-5
-3
-TXV_Library_Footprints
-Molex_MegaFit_1x02_Vertical
-
-
-0
-2
-2
-TXV_Library_Footprints
-Molex_MegaFit_1x03
-
-
-0
-3
-3
-TXV_Library_Footprints
-Molex_MegaFit_1x03_Vertical
-
-
-0
-3
-3
-TXV_Library_Footprints
-Molex_MegaFit_1x03_Vertical_Doublesided
-
-
-0
-3
-3
-TXV_Library_Footprints
-Molex_MicroFit_2Pin_Vertical
-
-
-0
-4
-3
-TXV_Library_Footprints
-Molex_MicroFit_1054301202
-
-
-0
-4
-3
-TXV_Library_Footprints
-Molex_Nano-Fit_105309-xx02_1x02_P2.50mm_Vertical
-Molex Nano-Fit Power Connectors, 105309-xx02, 2 Pins per row (http://www.molex.com/pdm_docs/sd/1053091203_sd.pdf), generated with kicad-footprint-generator
-connector Molex Nano-Fit side entry
-0
-2
-2
-TXV_Library_Footprints
-Molex_Nano-Fit_105309-xx04_1x04_P2.50mm_Vertical
-Molex Nano-Fit Power Connectors, 105309-xx04, 4 Pins per row (http://www.molex.com/pdm_docs/sd/1053091203_sd.pdf), generated with kicad-footprint-generator
-connector Molex Nano-Fit side entry
-0
-4
-4
-TXV_Library_Footprints
-Molex_Nano-Fit_105313-xx02_1x02_P2.50mm_Horizontal
-Molex Nano-Fit Power Connectors, 105313-xx02, 2 Pins per row (http://www.molex.com/pdm_docs/sd/1053131208_sd.pdf), generated with kicad-footprint-generator
-connector Molex Nano-Fit top entry
-0
-2
-2
-TXV_Library_Footprints
-Molex_Nano-Fit_105313-xx04_1x04_P2.50mm_Horizontal
-Molex Nano-Fit Power Connectors, 105313-xx04, 4 Pins per row (http://www.molex.com/pdm_docs/sd/1053131208_sd.pdf), generated with kicad-footprint-generator
-connector Molex Nano-Fit top entry
-0
-4
-4
-TXV_Library_Footprints
-Molex_SL_1x2
-
-
-0
-2
-2
-TXV_Library_Footprints
-Molex_SL_1x2_Vertical
-
-
-0
-2
-2
-TXV_Library_Footprints
-NetTie
-
-
-0
-2
-2
-TXV_Library_Footprints
-NetTie_fat
-
-
-0
-2
-2
-TXV_Library_Footprints
-PG_TSDSON-8
-
-
-0
-10
-3
-TXV_Library_Footprints
-Piezo_Buzzer
-
-
-0
-2
-2
-TXV_Library_Footprints
-PlatedEdgePad_3mm
-
-
-0
-1
-1
-TXV_Library_Footprints
-PlatedEdgePad_6mm
-
-
-0
-1
-1
-TXV_Library_Footprints
-PlatedEdge_3mm
-
-
-0
-1
-1
-TXV_Library_Footprints
-PlatedEdge_6mm
-
-
-0
-1
-1
-TXV_Library_Footprints
-PowerPAK_1212-8
-
-
-0
-9
-3
-TXV_Library_Footprints
-QFN76P
-
-
-0
-77
-77
-TXV_Library_Footprints
-SAM-M8Q
-
-
-0
-100
-20
-TXV_Library_Footprints
-SAMTEC_MMCX-J-P-H-RA-SM1
-
-
-0
-5
-5
-TXV_Library_Footprints
-SAMTEC_MMCX-J-P-H-ST-SM1
-
-
-0
-5
-5
-TXV_Library_Footprints
-SOD882D
-
-
-0
-2
-2
-TXV_Library_Footprints
-SOT-563
-SOT563
-SOT-563
-0
-6
-6
-TXV_Library_Footprints
-SRN4018TA-4R7M
-
-
-0
-2
-2
-TXV_Library_Footprints
-ST_Logo
-
-
-0
-0
-0
-TXV_Library_Footprints
-ST_Logo_77x47mm
-
-
-0
-0
-0
-TXV_Library_Footprints
-ST_Logo_new
-
-
-0
-0
-0
-TXV_Library_Footprints
-SW_SPST_CK_RS282G05A3_and_THT
-https://www.mouser.com/ds/2/60/RS-282G05A-SM_RT-1159762.pdf
-SPST button tactile switch
-0
-4
-2
-TXV_Library_Footprints
-SiC431AEDT1GE3
-PowerPAK MLP44-24L
-Integrated Circuit
-0
-30
-28
-TXV_Library_Footprints
-SolderPad_Vias
-
-
-0
-42
-1
-TXV_Library_Footprints
-TE_M12_4_Pin_PCB
-
-
-0
-4
-4
-TXV_Library_Footprints
-TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm_ThermalVias_SolidConnection
-TQFP, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2100_datasheet_Rev1.08.pdf (page 45)), generated with kicad-footprint-generator ipc_qfp_generator.py
-TQFP QFP
+52
+52
+Package_QFP
+LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm
+LQFP, 64 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/adv7611.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
 0
 90
+65
+Package_QFP
+LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias
+LQFP, 64 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/adv7611.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+107
+65
+Package_QFP
+LQFP-64-1EP_10x10mm_P0.5mm_EP6.5x6.5mm
+LQFP, 64 Pin (https://www.nxp.com/files-static/shared/doc/package_info/98ARH98426A.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+90
+65
+Package_QFP
+LQFP-64-1EP_10x10mm_P0.5mm_EP6.5x6.5mm_ThermalVias
+LQFP, 64 Pin (https://www.nxp.com/files-static/shared/doc/package_info/98ARH98426A.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+127
+65
+Package_QFP
+LQFP-64_7x7mm_P0.4mm
+LQFP, 64 Pin (https://www.nxp.com/docs/en/package-information/SOT414-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+64
+64
+Package_QFP
+LQFP-64_10x10mm_P0.5mm
+LQFP, 64 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ad7606_7606-6_7606-4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+64
+64
+Package_QFP
+LQFP-64_14x14mm_P0.8mm
+LQFP, 64 Pin (https://www.nxp.com/docs/en/package-information/SOT791-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+64
+64
+Package_QFP
+LQFP-80_10x10mm_P0.4mm
+LQFP, 80 Pin (https://www.renesas.com/eu/en/package-image/pdf/outdrawing/q80.10x10.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+80
+80
+Package_QFP
+LQFP-80_12x12mm_P0.5mm
+LQFP, 80 Pin (https://www.nxp.com/docs/en/package-information/SOT315-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+80
+80
+Package_QFP
+LQFP-80_14x14mm_P0.65mm
+LQFP, 80 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/AD9852.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+80
+80
+Package_QFP
+LQFP-100_14x14mm_P0.5mm
+LQFP, 100 Pin (https://www.nxp.com/docs/en/package-information/SOT407-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+100
+100
+Package_QFP
+LQFP-128_14x14mm_P0.4mm
+LQFP, 128 Pin (https://www.renesas.com/eu/en/package-image/pdf/outdrawing/q128.14x14.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+128
+128
+Package_QFP
+LQFP-128_14x20mm_P0.5mm
+LQFP, 128 Pin (https://www.nxp.com/docs/en/package-information/SOT425-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+128
+128
+Package_QFP
+LQFP-144_20x20mm_P0.5mm
+LQFP, 144 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=425), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+144
+144
+Package_QFP
+LQFP-160_24x24mm_P0.5mm
+LQFP, 160 Pin (https://www.nxp.com/docs/en/package-information/SOT435-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+160
+160
+Package_QFP
+LQFP-176_20x20mm_P0.4mm
+LQFP, 176 Pin (https://www.onsemi.com/pub/Collateral/566DB.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+176
+176
+Package_QFP
+LQFP-176_24x24mm_P0.5mm
+LQFP, 176 Pin (https://www.st.com/resource/en/datasheet/stm32f207vg.pdf#page=163), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+176
+176
+Package_QFP
+LQFP-208_28x28mm_P0.5mm
+LQFP, 208 Pin (https://www.nxp.com/docs/en/package-information/SOT459-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+208
+208
+Package_QFP
+LQFP-216_24x24mm_P0.4mm
+LQFP, 216 Pin (https://www.onsemi.com/pub/Collateral/561BE.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+216
+216
+Package_QFP
+MQFP-44_10x10mm_P0.8mm
+MQFP, 44 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ad7722.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+MQFP QFP
+0
+44
+44
+Package_QFP
+PQFP-32_5x5mm_P0.5mm
+PQFP, 32 Pin (https://www.ti.com/lit/ds/symlink/ads127l01.pdf#page=87), generated with kicad-footprint-generator ipc_gullwing_generator.py
+PQFP QFP
+0
+32
+32
+Package_QFP
+PQFP-44_10x10mm_P0.8mm
+44-Lead Plastic Quad Flatpack - 10x10x2.5mm Body (http://www.onsemi.com/pub/Collateral/122BK.PDF)
+PQFP 0.8
+0
+44
+44
+Package_QFP
+PQFP-80_14x20mm_P0.8mm
+PQFP80 14x20 / QIP80E CASE 122BS (see ON Semiconductor 122BS.PDF)
+QFP 0.8
+0
+80
+80
+Package_QFP
+PQFP-100_14x20mm_P0.65mm
+PQFP, 100 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+PQFP QFP
+0
+100
+100
+Package_QFP
+PQFP-112_20x20mm_P0.65mm
+PQFP, 112 pins, 20mm sq body, 0.65mm pitch (http://cache.freescale.com/files/shared/doc/package_info/98ASS23330W.pdf, http://www.nxp.com/docs/en/application-note/AN4388.pdf)
+PQFP 112
+0
+112
+112
+Package_QFP
+PQFP-132_24x24mm_P0.635mm
+PQFP, 132 pins, 24mm sq body, 0.635mm pitch (https://www.intel.com/content/dam/www/public/us/en/documents/packaging-databooks/packaging-chapter-02-databook.pdf, http://www.nxp.com/docs/en/application-note/AN4388.pdf)
+PQFP 132
+0
+132
+132
+Package_QFP
+PQFP-132_24x24mm_P0.635mm_i386
+PQFP, 132 pins, 24mm sq body, 0.635mm pitch, Intel 386EX (https://www.intel.com/content/dam/www/public/us/en/documents/packaging-databooks/packaging-chapter-02-databook.pdf, http://www.nxp.com/docs/en/application-note/AN4388.pdf)
+PQFP 132 Intel 386EX
+0
+132
+132
+Package_QFP
+PQFP-144_28x28mm_P0.65mm
+PQFP, 144 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+PQFP QFP
+0
+144
+144
+Package_QFP
+PQFP-160_28x28mm_P0.65mm
+PQFP, 160 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+PQFP QFP
+0
+160
+160
+Package_QFP
+PQFP-208_28x28mm_P0.5mm
+PQFP, 208 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+PQFP QFP
+0
+208
+208
+Package_QFP
+PQFP-240_32.1x32.1mm_P0.5mm
+PQFP, 240 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+PQFP QFP
+0
+240
+240
+Package_QFP
+PQFP-256_28x28mm_P0.4mm
+PQFP256 28x28 / QFP256J CASE 122BX (see ON Semiconductor 122BX.PDF)
+QFP 0.4
+0
+256
+256
+Package_QFP
+TQFP-32_7x7mm_P0.8mm
+32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+32
+32
+Package_QFP
+TQFP-44-1EP_10x10mm_P0.8mm_EP4.5x4.5mm
+44-Lead Plastic Thin Quad Flatpack (MW) - 10x10x1.0 mm Body [TQFP] With 4.5x4.5 mm Exposed Pad (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+54
+45
+Package_QFP
+TQFP-44_10x10mm_P0.8mm
+44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+44
+44
+Package_QFP
+TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm
+48-Lead Thin Quad Flatpack (PT) - 7x7x1.0 mm Body [TQFP] With Exposed Pad (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.5
+0
+53
 49
-TXV_Library_Footprints
-USB_Micro-B_Molex-105017-0001
-http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf
-Micro-USB SMD Typ-B
+Package_QFP
+TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm
+TQFP, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2100_datasheet_Rev1.08.pdf (page 45)), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP
 0
-13
-6
-TXV_Library_Footprints
-WSON-8-8x6mm
-
-
+65
+49
+Package_QFP
+TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm_ThermalVias
+TQFP, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2100_datasheet_Rev1.08.pdf (page 45)), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP
 0
-9
-9
-TXV_Library_Footprints
-XT60PW-M
-
-
+91
+49
+Package_QFP
+TQFP-48_7x7mm_P0.5mm
+TQFP, 48 Pin (https://www.jedec.org/system/files/docs/MS-026D.pdf var ABC), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP
 0
-4
-3
-TXV_Library_Footprints
-bird_1
-
-
+48
+48
+Package_QFP
+TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm
+TQFP, 52 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tqfp_edsv/sv_52_1.pdf), generated with kicad-footprint-generator ipc_qfp_generator.py
+TQFP QFP
 0
+78
+53
+Package_QFP
+TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm_ThermalVias
+TQFP, 52 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tqfp_edsv/sv_52_1.pdf), generated with kicad-footprint-generator ipc_qfp_generator.py
+TQFP QFP
 0
+79
+53
+Package_QFP
+TQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm
+64-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1 mm Body, 2.00 mm Footprint [TQFP] thermal pad
+QFP 0.5 
 0
-TXV_Library_Footprints
-bird_2
-
-
+90
+65
+Package_QFP
+TQFP-64_7x7mm_P0.4mm
+TQFP64 7x7, 0.4P CASE 932BH (see ON Semiconductor 932BH.PDF)
+QFP 0.4
 0
+64
+64
+Package_QFP
+TQFP-64_10x10mm_P0.5mm
+TQFP, 64 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP
 0
+64
+64
+Package_QFP
+TQFP-64_14x14mm_P0.8mm
+64-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
 0
-TXV_Library_Footprints
-peter-pan
-
-
+64
+64
+Package_QFP
+TQFP-80-1EP_14x14mm_P0.65mm_EP9.5x9.5mm
+80-Lead Plastic Thin Quad Flatpack (PF) - 14x14mm body, 9.5mm sq thermal pad (http://www.analog.com/media/en/technical-documentation/data-sheets/AD9852.pdf)
+QFP 0.65
 0
+85
+81
+Package_QFP
+TQFP-80_12x12mm_P0.5mm
+80-Lead Plastic Thin Quad Flatpack (PT) - 12x12x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.5
 0
+80
+80
+Package_QFP
+TQFP-80_14x14mm_P0.65mm
+80-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.65
 0
-TXV_Library_Footprints
-thomas-the-tank-engine
-
-
+80
+80
+Package_QFP
+TQFP-100-1EP_14x14mm_P0.5mm_EP5x5mm
+TQFP, 100 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tqfp_edsv/sv_100_4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP
 0
+117
+101
+Package_QFP
+TQFP-100-1EP_14x14mm_P0.5mm_EP5x5mm_ThermalVias
+TQFP, 100 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tqfp_edsv/sv_100_4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP
 0
+143
+101
+Package_QFP
+TQFP-100_12x12mm_P0.4mm
+100-Lead Plastic Thin Quad Flatpack (PT) - 12x12x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.4
 0
-TXV_Library_Footprints
-thomas-the-train
-
-
+100
+100
+Package_QFP
+TQFP-100_14x14mm_P0.5mm
+TQFP, 100 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP
 0
+100
+100
+Package_QFP
+TQFP-120_14x14mm_P0.4mm
+TQFP120 14x14 / TQFP120 CASE 932AZ (see ON Semiconductor 932AZ.PDF)
+QFP 0.4
 0
+120
+120
+Package_QFP
+TQFP-128_14x14mm_P0.4mm
+TQFP128 14x14 / TQFP128 CASE 932BB (see ON Semiconductor 932BB.PDF)
+QFP 0.4
 0
+128
+128
+Package_QFP
+TQFP-144_16x16mm_P0.4mm
+144-Lead Plastic Thin Quad Flatpack (PH) - 16x16x1 mm Body, 2.00 mm Footprint [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.4
+0
+144
+144
+Package_QFP
+TQFP-144_20x20mm_P0.5mm
+TQFP, 144 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP
+0
+144
+144
+Package_QFP
+TQFP-176_24x24mm_P0.5mm
+TQFP, 176 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP
+0
+176
+176
+Package_QFP
+VQFP-80_14x14mm_P0.65mm
+VQFP, 80 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+VQFP QFP
+0
+80
+80
+Package_QFP
+VQFP-100_14x14mm_P0.5mm
+VQFP, 100 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+VQFP QFP
+0
+100
+100
+Package_QFP
+VQFP-128_14x14mm_P0.4mm
+VQFP, 128 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+VQFP QFP
+0
+128
+128
+Package_QFP
+VQFP-176_20x20mm_P0.4mm
+VQFP, 176 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+VQFP QFP
+0
+176
+176

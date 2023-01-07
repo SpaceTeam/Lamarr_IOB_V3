@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP PINA350ABSIDDFR
-D INA350 Cost and Size Optimized, Low Power, 1.8-V to 5.5-V Selectable Gain Instrumentation Amplifier
-K
-F https://www.ti.com/lit/ds/symlink/ina350.pdf?ts=1645143706286&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FINA350
-$ENDCMP
-#
-#End Doc Library
