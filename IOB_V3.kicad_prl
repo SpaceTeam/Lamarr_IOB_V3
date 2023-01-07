@@ -63,7 +63,7 @@
       36
     ],
     "visible_layers": "0009020_fffffffb",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "IOB_V3.kicad_prl",
